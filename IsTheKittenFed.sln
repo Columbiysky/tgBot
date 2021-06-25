@@ -8,19 +8,19 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
-		Debug|ARM64 = Debug|ARM64
+		Debug|ARM32 = Debug|ARM32
 		Release|Any CPU = Release|Any CPU
-		Release|ARM64 = Release|ARM64
+		Release|ARM32 = Release|ARM32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{641B60DC-AFDA-41E1-9753-3960A6AEDF6F}.Debug|Any CPU.ActiveCfg = Debug|ARM64
 		{641B60DC-AFDA-41E1-9753-3960A6AEDF6F}.Debug|Any CPU.Build.0 = Debug|ARM64
-		{641B60DC-AFDA-41E1-9753-3960A6AEDF6F}.Debug|ARM64.ActiveCfg = Debug|ARM64
-		{641B60DC-AFDA-41E1-9753-3960A6AEDF6F}.Debug|ARM64.Build.0 = Debug|ARM64
+		{641B60DC-AFDA-41E1-9753-3960A6AEDF6F}.Debug|ARM32.ActiveCfg = Debug|ARM32
+		{641B60DC-AFDA-41E1-9753-3960A6AEDF6F}.Debug|ARM32.Build.0 = Debug|ARM32
 		{641B60DC-AFDA-41E1-9753-3960A6AEDF6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{641B60DC-AFDA-41E1-9753-3960A6AEDF6F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{641B60DC-AFDA-41E1-9753-3960A6AEDF6F}.Release|ARM64.ActiveCfg = Release|ARM64
-		{641B60DC-AFDA-41E1-9753-3960A6AEDF6F}.Release|ARM64.Build.0 = Release|ARM64
+		{641B60DC-AFDA-41E1-9753-3960A6AEDF6F}.Release|ARM32.ActiveCfg = Release|ARM32
+		{641B60DC-AFDA-41E1-9753-3960A6AEDF6F}.Release|ARM32.Build.0 = Release|ARM32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
