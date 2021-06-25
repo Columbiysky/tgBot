@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "IsTheKittenFed": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
